@@ -9,8 +9,9 @@ By Jean-Marc
 <br>
 <bold>Github Links</bold>
 <ul>
-<a href="https://github.com/QDetective/cpnt201-a5">GitHub Repo
-<a href="https://qdetective.github.io/cpnt201-a5">Github Page
+  <a href="https://github.com/QDetective/cpnt201-a5">GitHub Repo</a>
+  <br>
+  <a href="https://qdetective.github.io/cpnt201-a5">Github Page</a>
 </ul>
 <br>
 <bold>Summary:</bold>
