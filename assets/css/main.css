@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.title {
+    @apply container text-center mt-3 m-auto font-bold text-xl bg-red-200 w-1/5 font-sans cursor-pointer hover: bg-yellow-300;
+}
